@@ -1,2 +1,2 @@
 #!/usr/bin/env
-print hello
+print hello world
