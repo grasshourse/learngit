@@ -1,2 +1,2 @@
-#-*- coding:utf-8 -*-
-print hello
+#!/usr/bin/env
+print hello world
